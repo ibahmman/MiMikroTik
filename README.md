@@ -6,6 +6,7 @@ Commanding MikroTik router using "routeros_api" library.
 - IPv6 network configuration
 - Upgrade the operating system version.
 - Downgrade the operating system version.
+- Download router updates using ftp service.
 
 ## Installation
 1. First, clone the repository:

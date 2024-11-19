@@ -35,6 +35,7 @@ Commanding MikroTik router using "routeros_api" library.
    python mimikrotik.py
    ```
 
+### 6. **Examples**
 
 install requirements: `pip install -r requirements`
 

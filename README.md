@@ -1,3 +1,19 @@
+# Connecting to Mikrotik API
+Commanding MikroTik router using "routeros_api" library.
+
+## Features
+- Changing the service port and setting the admin user password
+- IPv6 network configuration
+- Upgrade the operating system version.
+- Downgrade the operating system version.
+
+## Installation
+1. First, clone the repository:
+   ```
+   [https://github.com/ibahmman/MiMikroTik.git](https://github.com/ibahmman/MiMikroTik.git)
+   ```
+
+
 install requirements: `pip install -r requirements`
 
 You can enter the address in 4 ways to connect to Mikrotik. \n

@@ -25,6 +25,9 @@ Commanding MikroTik router using "routeros_api" library.
    python mimikrotik.py
    ```
 
+## How to use
+- On Windows :
+  Just extract the zip file then run the executable file.
 
 install requirements: `pip install -r requirements`
 

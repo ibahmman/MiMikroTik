@@ -26,8 +26,15 @@ Commanding MikroTik router using "routeros_api" library.
    ```
 
 ## How to use
-- On Windows :
-  Just extract the zip file then run the executable file.
+- On Windows : Just extract the zip file then run the executable file.
+- On Linux : After entering the script directory and going to the virtual environments, run the script.
+  ```bash
+  source venv/bin/activate
+  ```
+  ```bash
+   python mimikrotik.py
+   ```
+
 
 install requirements: `pip install -r requirements`
 

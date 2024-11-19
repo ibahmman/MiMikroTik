@@ -9,8 +9,8 @@ Commanding MikroTik router using "routeros_api" library.
 
 ## Installation
 1. First, clone the repository:
-   ```
-   [https://github.com/ibahmman/MiMikroTik.git](https://github.com/ibahmman/MiMikroTik.git)
+   ```bash
+   git clone https://github.com/ibahmman/MiMikroTik.git
    ```
 
 

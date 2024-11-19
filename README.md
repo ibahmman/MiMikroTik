@@ -12,6 +12,18 @@ Commanding MikroTik router using "routeros_api" library.
    ```bash
    git clone https://github.com/ibahmman/MiMikroTik.git
    ```
+2. Enter the project directory:
+   ```bash
+   cd MiMikroTik
+   ```
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.lur
+   ```
+4. Run the project:
+   ```bash
+   python mimikrotik.py
+   ```
 
 
 install requirements: `pip install -r requirements`

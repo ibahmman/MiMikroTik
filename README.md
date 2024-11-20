@@ -48,8 +48,8 @@ An example of logging into a server using Windows software, changing the port an
 
 
 ## Contact
-- Telegram : [@iRashnu](https://https://t.me/irashnu)
-- Instagram : [@SobhanBahman](https://https://instagram.com/sobhanbahman)
+- Telegram : [@iRashnu](https://t.me/irashnu)
+- Instagram : [@SobhanBahman](https://instagram.com/sobhanbahman)
 
 
 
